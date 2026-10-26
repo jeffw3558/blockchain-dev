@@ -1,0 +1,10 @@
+# Foundry build output and downloaded libraries
+**/out/
+**/cache/
+**/broadcast/
+**/lib/
+
+# Secrets and Mac junk
+.env
+.DS_Store
+.venv/
